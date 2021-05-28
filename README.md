@@ -2,4 +2,4 @@
 
 
 
-Der Code zum Bot.
+Code zum Bot.
