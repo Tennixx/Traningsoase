@@ -205,5 +205,5 @@ async def close_ticket(ctx):
 
 
 
-bot.load_extension("cogs.help")
+bot.load_extension("cogs.general")
 bot.run("...")
