@@ -44,4 +44,4 @@ class help(commands.Cog):
 
 def setup(bot):
     bot.add_cog(help(bot))
-    print("HELP is loaded!")
+    print("GENERAL is loaded!")
